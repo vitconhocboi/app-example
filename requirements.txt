@@ -1,0 +1,7 @@
+dash>=2.17,<4
+dash-bootstrap-components>=1.6
+dash-ag-grid>=31
+plotly>=5.20
+pandas>=2
+pyarrow>=14
+gunicorn>=22
